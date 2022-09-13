@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM mathworks/matlab:r2022a
 
 ENV RUNTIME_ENV container
 
